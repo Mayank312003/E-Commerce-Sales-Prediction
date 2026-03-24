@@ -6,7 +6,7 @@
 [![Notebook](https://img.shields.io/badge/📓_Notebook-Open-7c5cfc?style=for-the-badge)](./E-Commerce_Analysis___Prediction.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Winner-ff6b35?style=for-the-badge)](https://xgboost.readthedocs.io)
-https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi
+[![Power BI](https://xgboost.readthedocs.io](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi))
 
 ---
 
