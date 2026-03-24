@@ -12,7 +12,13 @@
 
 ## 📌 Project Overview
 
-An end-to-end machine learning project that analyses e-commerce marketing data and predicts **sales revenue** using regression models. The project covers the full data science lifecycle — from raw CSV ingestion to cross-validated predictions.
+An end-to-end machine learning project that analyses e-commerce marketing data and predicts **sales revenue** using regression models. The project covers the full data science lifecycle — from raw CSV ingestion to cross-validated predictions, and culminates in an interactive dashboard that showcases sales performance.
+
+---
+
+## 📊 Dashboard
+
+<img width="1703" height="728" alt="ss" src="https://github.com/user-attachments/assets/e7e8009f-fabc-402b-ace3-5d2dfb6100a3" />
 
 ---
 
@@ -84,12 +90,6 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn jupyter
 # Launch notebook
 jupyter notebook E-Commerce Sales Analysis & Prediction.ipynb
 ```
-
----
-
-## 📊 Dashboard
-
-<img width="1703" height="728" alt="ss" src="https://github.com/user-attachments/assets/e7e8009f-fabc-402b-ace3-5d2dfb6100a3" />
 
 ---
 ## 📬 Let's Connect
