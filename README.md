@@ -1,11 +1,12 @@
 # 🛒 E-Commerce Sales Analysis & Prediction
 
-> **Predicting sales revenue from marketing metrics using end-to-end ML pipelines — XGBoost achieving ~95% R²**
+> **Predicting sales revenue from marketing metrics using end-to-end ML pipelines — XGBoost achieving ~91% R²**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_README-View_Interactive-00e5a0?style=for-the-badge)](https://yourusername.github.io/ecommerce-sales-prediction/README)
 [![Notebook](https://img.shields.io/badge/📓_Notebook-Open-7c5cfc?style=for-the-badge)](./E-Commerce_Analysis___Prediction.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Winner-ff6b35?style=for-the-badge)](https://xgboost.readthedocs.io)
+[[![Power BI](https://img.shields.io/badge/Power BI-Winner-ff6b35?style=for-the-badge)](https://xgboost.readthedocs.io)](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
@@ -20,8 +21,8 @@ An end-to-end machine learning project that analyses e-commerce marketing data a
 | Model | Train R² | Test R² | Notes |
 |---|---|---|---|
 | Linear Regression | ~0.72 | ~0.70 | Baseline — interpretable but limited |
-| Random Forest | ~0.99 | ~0.88 | Overfits on training data |
-| **XGBoost** ⭐ | **~0.98** | **~0.95** | **Best generalisation — selected model** |
+| Random Forest | ~0.92 | ~0.78 | Overfits on training data |
+| **XGBoost** ⭐ | **~0.95** | **~0.91** | **Best generalisation — selected model** |
 
 > 5-fold cross-validation used to confirm model stability.
 
@@ -45,7 +46,7 @@ Data Ingestion → EDA → Cleaning & Imputation → Feature Engineering → Mod
 
 ## 🛠 Tech Stack
 
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Matplotlib` · `Seaborn` · `Jupyter Notebook`
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `Matplotlib` · `Seaborn` · `Jupyter Notebook` · `Power BI`
 
 ---
 
