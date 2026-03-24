@@ -87,6 +87,11 @@ jupyter notebook E-Commerce Sales Analysis & Prediction.ipynb
 
 ---
 
+## 📊 Dashboard
+
+<img width="1703" height="728" alt="ss" src="https://github.com/user-attachments/assets/e7e8009f-fabc-402b-ace3-5d2dfb6100a3" />
+
+---
 ## 📬 Let's Connect
 
 If you're a recruiter or hiring manager — feel free to check out the **[interactive README](https://Mayank312003.github.io/E-Commerce-Sales-Prediction/index)** for a visual walkthrough of this project.
