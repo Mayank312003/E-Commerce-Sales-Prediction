@@ -97,9 +97,8 @@ jupyter notebook E-Commerce Sales Analysis & Prediction.ipynb
 If you're a recruiter or hiring manager - feel free to check out the **[interactive README](https://Mayank312003.github.io/E-Commerce-Sales-Prediction/index)** for a visual walkthrough of this project.
 
 ---
-## 📬 Author
+## ✍️ Author
 
 **Mayank Yadav**
-
 **Aspiring Data Analyst | Data Scientist | Machine Learning Engineer**
 > ⭐ Star this repo if you found it useful!
