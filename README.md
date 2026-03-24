@@ -37,7 +37,7 @@ An end-to-end machine learning project that analyses e-commerce marketing data a
 ## 🧠 ML Pipeline
 
 ```
-Data Ingestion → EDA → Cleaning & Imputation → Feature Engineering → Model Training → Cross-Validation → Predictions
+Data Ingestion → EDA → Cleaning & Imputation → Feature Engineering → Model Training → Cross-Validation → Predictions → Power BI Dashboard
 ```
 
 ---
