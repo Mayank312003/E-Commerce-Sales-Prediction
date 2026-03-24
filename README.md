@@ -100,5 +100,6 @@ If you're a recruiter or hiring manager - feel free to check out the **[interact
 ## ✍️ Author
 
 **Mayank Yadav**
+
 **Aspiring Data Analyst | Data Scientist | Machine Learning Engineer**
 > ⭐ Star this repo if you found it useful!
