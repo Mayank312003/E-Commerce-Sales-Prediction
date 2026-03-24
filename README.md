@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-An end-to-end machine learning project that analyses e-commerce marketing data and predicts **sales revenue** using regression models. The project covers the full data science lifecycle — from raw CSV ingestion to cross-validated predictions, and culminates in an interactive dashboard that showcases sales performance.
+An end-to-end machine learning project that analyses e-commerce marketing data and predicts **sales revenue** using regression models. The project covers the full data science lifecycle - from raw CSV ingestion to cross-validated predictions, and culminates in an interactive dashboard that showcases sales performance.
 
 ---
 
